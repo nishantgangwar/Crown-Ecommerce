@@ -4,7 +4,7 @@ import Directory from "../../directory/directory.jsx";
 const Homepage = () => {
   return (
     <div className="homepage">
-      <Directory />
+      <Directory  />
     </div>
   );
 };
